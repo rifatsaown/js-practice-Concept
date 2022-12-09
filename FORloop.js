@@ -3,6 +3,7 @@ let numbers = {
     rumi: 99,
     saown: 89,
     ratri: 94,
+    indur: 98,
 }
 console.log("------------------------------");
 // Normal for loop
