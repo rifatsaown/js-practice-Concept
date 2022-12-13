@@ -15,3 +15,7 @@ const add = () => {
     return 1 + 2;
 }
 console.log(add());
+
+//arrow function example without return
+const addNumber2 = (a, b) => a + b;
+console.log(addNumber2(1, 2));
