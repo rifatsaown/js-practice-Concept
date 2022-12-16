@@ -13,13 +13,13 @@ for (let i = 0; i < Object.keys(numbers).length; i++) {
 console.log("------------------------------");
 
 // for in loop
-for(let number in numbers){
+for (let number in numbers) {
     console.log(`Name: ${number} Marks: ${numbers[number]}\n`);
 }
 console.log("------------------------------");
 // for of loop
 let names = ["Rifat", "Rumi", "Saown", "Ratri"];
-for(let name of names){
+for (let name of names) {
     console.log(name);
 }
 console.log("------------------------------");
