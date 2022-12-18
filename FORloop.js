@@ -16,7 +16,7 @@ console.log("------------------------------");
 for (let number in numbers) {
     console.log(`Name: ${number} Marks: ${numbers[number]}\n`);
 }
-console.log("------------------------------");
+console.log("-----------------------------");
 // for of loop
 let names = ["Rifat", "Rumi", "Saown", "Ratri"];
 for (let name of names) {
