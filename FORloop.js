@@ -10,7 +10,7 @@ console.log("------------------------------");
 for (let i = 0; i < Object.keys(numbers).length; i++) {
     console.log(`Name: ${Object.keys(numbers)[i]} \nMarks: ${numbers[Object.keys(numbers)[i]]}\n`);
 }
-console.log("------------------------------");
+console.log("-----------------------------");
 
 // for in loop
 for (let number in numbers) {
