@@ -5,7 +5,7 @@ let numbers = {
     ratri: 94,
     indur: 98,
 }
-console.log("------------------------------");
+console.log("-----------------------------");
 // Normal for loop
 for (let i = 0; i < Object.keys(numbers).length; i++) {
     console.log(`Name: ${Object.keys(numbers)[i]} \nMarks: ${numbers[Object.keys(numbers)[i]]}\n`);
