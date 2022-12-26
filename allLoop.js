@@ -75,19 +75,19 @@ let result7 = arr7.some((value) => {
 })
 console.log(result7);
 
-// // find loop
-// let arr = [1,2,3,4,5];
-// let result = arr.find((value) => {
-//     return value > 2;
-// })
-// console.log(result);
+// find loop
+let arr8 = [1,2,3,4,5];
+let result8 = arr8.find((value) => {
+    return value > 2;
+})
+console.log(result8);
 
-// // findIndex loop
-// let arr = [1,2,3,4,5];
-// let result = arr.findIndex((value) => {
-//     return value > 2;
-// })
-// console.log(result);
+// findIndex loop
+let arr9 = [1,2,3,4,5];
+let result9 = arr9.findIndex((value) => {
+    return value > 2;
+})
+console.log(result9);
 
 // // for...in loop
 // let obj = {
