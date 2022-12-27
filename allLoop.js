@@ -89,7 +89,11 @@ let result9 = arr9.findIndex((value) => {
 })
 console.log(result9);
 
-// // for...in loop
-// let obj = {
-//     name: "Sakib",
-//     age: 24
+// for...in loop
+let obj01 = {
+    name: "Sakib",
+    age: 24
+}
+for(let key in obj01){
+    console.log(key);
+}
