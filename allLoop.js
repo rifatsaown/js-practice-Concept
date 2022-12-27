@@ -1,11 +1,11 @@
 // for loop
-for(let i = 0; i < 10000; i++){
+for(let i = 0; i < 100; i++){
     console.log(i);
 }
 
 // while loop
 let i = 0;
-while(i < 10000){
+while(i < 100){
     console.log(i);
     i++;
 }
@@ -15,7 +15,7 @@ let i2 = 0;
 do {
     console.log(i2);
     i2++;
-} while(i2 < 10000);
+} while(i2 < 100);
 
 // for...in loop
 let obj = {
