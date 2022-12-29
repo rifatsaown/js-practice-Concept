@@ -5,7 +5,7 @@ const task1 =()=> {
 const task2 =()=> {
     setTimeout(() => {
         console.log('Task 2');
-    }, 0);
+    }, 1);
 }
 const task3 =()=> {
     console.log('Task 3');
