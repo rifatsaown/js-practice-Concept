@@ -1,16 +1,16 @@
-const task1 =()=> {
+const task1 = () => {
     console.log('Task 1');
 }
 
-const task2 =()=> {
+const task2 = () => {
     setTimeout(() => {
         console.log('Task 2');
     }, 0);
 }
-const task3 =()=> {
+const task3 = () => {
     console.log('Task 3');
 }
-const task4 =()=> {
+const task4 = () => {
     console.log('Task 4');
 }
 
